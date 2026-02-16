@@ -1,7 +1,7 @@
 
 # Web Technology Lab 3
 
-## 📌 Lab Overview
+## Lab Overview
 This repository contains the **Lab-3 Web Technology** work designed to introduce students to the fundamentals of **HTML, CSS, and Bootstrap** for building responsive and modern web pages.
 
 The lab includes:
@@ -9,7 +9,7 @@ The lab includes:
 - **4 practice tasks** for independent student implementation  
 
 
-## 🎯 Lab Objectives
+## Lab Objectives
 After completing this lab, students will be able to:
 
 - Understand the basic structure of an HTML document  
@@ -17,12 +17,12 @@ After completing this lab, students will be able to:
 - Use Bootstrap grid system and components effectively  
 - Design responsive web pages with minimal custom CSS  
 
-## 🛠 Technologies Used
+## Technologies Used
 - HTML5  
 - CSS3  
 - Bootstrap 5  
 
-## 📂 Repository Structure
+## Repository Structure
 
 web-tech-lab-3/
 │── solved-activities/

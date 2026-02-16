@@ -22,16 +22,5 @@ After completing this lab, students will be able to:
 - CSS3  
 - Bootstrap 5  
 
-## Repository Structure
-
-web-tech-lab-3/
-│── solved-activities/
-│── practice-tasks/
-
-
 **Imad Khan**  
 CS Student – Air University Islamabad  
-
-
-
-# 👍
